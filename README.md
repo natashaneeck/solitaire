@@ -1,7 +1,7 @@
 # Solitaire
 
 Project for CS3100 Project Design and Implementation 2 (Formerly called Object-Oriented Design)  
-Private academic code, available upon request for a limited time period due to instructor policies  
+Provided by assignment: gradle and checkstyle files  
 
 ## Overview
 MVC textual solitaire with customizable rules, decks, and pile sizes, tested with JUnit.  
